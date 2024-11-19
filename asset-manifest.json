@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bbsResponsive/static/css/main.6b725510.css",
+    "main.js": "/bbsResponsive/static/js/main.a63e69d8.js",
+    "static/js/453.ad6eb26e.chunk.js": "/bbsResponsive/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/bbsResponsive/index.html",
+    "main.6b725510.css.map": "/bbsResponsive/static/css/main.6b725510.css.map",
+    "main.a63e69d8.js.map": "/bbsResponsive/static/js/main.a63e69d8.js.map",
+    "453.ad6eb26e.chunk.js.map": "/bbsResponsive/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b725510.css",
+    "static/js/main.a63e69d8.js"
+  ]
+}
